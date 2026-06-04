@@ -1,0 +1,22 @@
+ckpts/
+mmdetection3d/
+result_vis/
+test/
+notebooks/*
+!notebooks/*.ipynb
+data/
+val/
+pretrained/
+logs/**/results_nusc.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+.eggs/
+dist/
+build/
+*.so
