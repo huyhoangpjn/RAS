@@ -268,10 +268,14 @@ bbox_coder=dict(
 ## Citation
 
 ```bibtex
-@article{duong2024ras,
+@inproceedings{duong2026ras,
   title={Ray Augmented Supervision for 3D Object Detection},
   author={Duong, Huy-Hoang and Voicila, Adrian and Allibert, Guillaume},
-  year={2024}
+  booktitle={28th International Conference on Pattern Recognition (ICPR 2026)},
+  month={aug},
+  year={2026},
+  address={Lyon, France},
+  note={\url{https://hal.science/hal-05620732v1}}
 }
 ```
 
