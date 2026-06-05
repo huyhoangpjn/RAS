@@ -1,5 +1,7 @@
 # Ray Augmented Supervision (RAS) for 3D Object Detection
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 ## Overview
 
 **Ray Augmented Supervision (RAS)** is a plug-and-play one-to-many (O2M) training framework that directly supervises operated queries along camera rays. It consists of three complementary components:
@@ -262,6 +264,12 @@ bbox_coder=dict(
     ...
 )
 ```
+
+---
+
+## License
+
+This project is released under the [MIT License](LICENSE). If you use this work, please cite our paper (see below).
 
 ---
 
